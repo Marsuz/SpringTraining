@@ -2,7 +2,6 @@ package modeltest;
 
 import model.knight.BraveKnight;
 import model.quest.Quest;
-import model.quest.SlayDragonQuest;
 import org.junit.Test;
 import static org.mockito.Mockito.*;
 
