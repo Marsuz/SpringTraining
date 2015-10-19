@@ -1,6 +1,6 @@
-package model.knight;
+package model.firstchapter.knight;
 
-import model.quest.Quest;
+import model.firstchapter.quest.Quest;
 
 /**
  * Created by Marcin on 2015-10-18.

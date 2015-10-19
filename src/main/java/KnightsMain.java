@@ -1,7 +1,6 @@
-import model.knight.BraveKnight;
-import model.knight.Knight;
-import model.quest.SlayDragonQuest;
+
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import model.firstchapter.knight.Knight;
 
 /**
  * Created by Marcin on 2015-10-18.

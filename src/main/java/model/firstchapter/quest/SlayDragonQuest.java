@@ -1,4 +1,4 @@
-package model.quest;
+package model.firstchapter.quest;
 
 import java.io.PrintStream;
 

@@ -1,4 +1,4 @@
-package model.quest;
+package model.firstchapter.quest;
 
 /**
  * Created by Marcin on 2015-10-18.
