@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 import model.secondchapter.CDPlayerConfig;
 import model.secondchapter.CompactDisc;
 import model.secondchapter.MediaPlayer;
+import model.secondchapter.SoundSystemConfig;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -17,7 +18,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  */
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = CDPlayerConfig.class)
+@ContextConfiguration(classes = SoundSystemConfig.class)
 public class CDPlayerTest {
 
 
