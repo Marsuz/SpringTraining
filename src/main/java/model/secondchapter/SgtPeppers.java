@@ -1,5 +1,6 @@
 package model.secondchapter;
 
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 /**
